@@ -7,3 +7,7 @@ Utilizei avaliações aleatórias de alguns estabelecimentos achados no Google M
 2. O segudo é referente a uma observação positiva referente a opição dos cardapios;
 3. O terceiro é uma proposta para o gerente melhorar o desempenho do time;
 
+### Resultados:
+1.Sentença 1:
+* Sentimento: 20% POSITIVO / 0% NEUTRO / 80% NEGATIVO
+* Resultado Satisfatório: Ambiente considerado péssimo reduz a porcentagem positiva.
