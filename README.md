@@ -11,3 +11,11 @@ Utilizei avaliações aleatórias de alguns estabelecimentos achados no Google M
 1.Sentença 1:
 * Sentimento: 20% POSITIVO / 0% NEUTRO / 80% NEGATIVO
 * Resultado Satisfatório: Ambiente considerado péssimo reduz a porcentagem positiva.
+
+2.Sentença 2:
+* Sentimento: 80% POSITIVO / 0% NEUTRO / 20% NEGATIVO
+* Resultado Satisfatório: Opções exclusivas no MC Café aumentam a porcentagem positiva.
+
+3.Sentença 3:
+* Sentimento: 30% POSITIVO / 0% NEUTRO / 70% NEGATIVO
+* Resultado Satisfatório: Crítica construtiva, mas indica insatisfação com o treinamento atual.
